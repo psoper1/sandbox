@@ -1,1 +1,1 @@
-# A template repo for a vanillajs repository in Gitpod
+# A Weather app to well, check the weather
